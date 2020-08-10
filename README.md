@@ -4,8 +4,8 @@ Press any key, A to Z, enjoy animations with sounds --> [Here](https://lzhao819.
 
 ### Built With
 
-* [Paper.js] (http://paperjs.org/) - Vector Graphics Scripting
-* [Howler.js] (https://cdnjs.com/libraries/howler) - Javascript audio library
+* [Paper.js](http://paperjs.org/) - Vector Graphics Scripting
+* [Howler.js](https://howlerjs.com/) - Javascript audio library
 
 ### Acknowledgments
 
