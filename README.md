@@ -1,8 +1,8 @@
 # Patatap_Fun
 
-Press any key, A to Z, enjoy animations with sounds -->[Here](https://lzhao819.github.io/Patatap_Fun/)
+Press any key, A to Z, enjoy animations with sounds --> [Here](https://lzhao819.github.io/Patatap_Fun/)
 
-## Built With
+### Built With
 
 * [Paper.js] (http://paperjs.org/) - Vector Graphics Scripting
 * [Howler.js] (https://cdnjs.com/libraries/howler) - Javascript audio library
